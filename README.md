@@ -11,7 +11,7 @@
 
 - 📄 My Portfolio [https://ridika-naznin-portfolio.netlify.app/](https://ridika-naznin-portfolio.netlify.app/)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
