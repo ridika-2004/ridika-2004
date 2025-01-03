@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nazninridika2004@gmail.com**
 
-- 📄 Know about me [https://ridika-naznin-portfolio.netlify.app/](https://ridika-naznin-portfolio.netlify.app/)
+- 📄 My Portfolio [https://ridika-naznin-portfolio.netlify.app/](https://ridika-naznin-portfolio.netlify.app/)
 
 - ⚡ Fun fact **I am funny**
 
