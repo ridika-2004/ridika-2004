@@ -11,6 +11,8 @@
 
 - 📄 My Portfolio [https://ridika-naznin-portfolio.netlify.app/](https://ridika-naznin-portfolio.netlify.app/)
 
+- 📄 My Resume  [resume.pdf](https://github.com/user-attachments/files/18310981/resume.pdf)
+
 - ⚡ **I am funny**
 
 <h3 align="left">Connect with me:</h3>
