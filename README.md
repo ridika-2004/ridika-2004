@@ -29,10 +29,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ridika-2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&show_icons=true&locale=en&layout=compact" 
+       alt="Top Languages" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ridika-2004&show_icons=true&locale=en" 
+       alt="GitHub Stats" style="height: 200px;">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&show_icons=true&locale=en&layout=compact" alt="ridika-2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridika-2004&show_icons=true&locale=en" alt="ridika-2004" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridika-2004&background=FFFFFF&ring=6C9BD2&fire=6C9BD2&currStreakLabel=6C9BD2" alt="ridika-2004" /></p>
 
 
