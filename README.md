@@ -3,6 +3,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=800&color=6C9BD2&center=true&vCenter=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+I'm+Ridika+Naznin;I'm+a+software+engineering+student+" alt="Typing SVG" /></a>
 
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ridika-2004&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
+  </a> 
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridika-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ridika-2004" /> </p>
 
 - 🔭 I’m currently working on [HealthEd](https://github.com/ridika-2004/HealthEd)
