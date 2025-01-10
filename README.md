@@ -30,9 +30,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ridika-2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&show_icons=true&locale=en&layout=compact" alt="ridika-2004" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&show_icons=true&locale=en&layout=compact" alt="ridika-2004" /></p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridika-2004&show_icons=true&locale=en" alt="ridika-2004" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridika-2004&show_icons=true&locale=en" alt="ridika-2004" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridika-2004&background=FFFFFF&ring=6C9BD2&fire=6C9BD2&currStreakLabel=6C9BD2" alt="ridika-2004" /></p>
 
 
