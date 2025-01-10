@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=120&section=header" alt="header"/> 
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=800&color=6C9BD2&center=true&vCenter=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+I'm+Ridika+Naznin;I'm+a+software+engineering+student+" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridika-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ridika-2004" /> </p>
@@ -39,8 +40,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridika-2004&background=FFFFFF&ring=6C9BD2&fire=6C9BD2&currStreakLabel=6C9BD2" alt="ridika-2004" /></p>
-
-![GitHub Snake](https://github.com/ridika-2004/ridika-2004/blob/output/snake.svg)
 
 
 
