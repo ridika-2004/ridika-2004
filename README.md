@@ -48,13 +48,17 @@
 <!-- Commit Stats -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&show_icons=true&locale=en&layout=compact" 
        alt="Top Languages" style="height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ridika-2004&show_icons=true&locale=en" 
        alt="GitHub Stats" style="height: 200px;">
+  </p>
 </div>
 
 
 <!-- Streak -->
 
+<p align="center">
 <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ridika-2004&theme=meta-dark&hide_border=true&ring=6C9BD2&fire=6C9BD2&currStreakLabel=6C9BD2" alt="GitHub Streak" /></a>
+</p>
