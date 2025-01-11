@@ -57,7 +57,4 @@
 
 <!-- Streak -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridika-2004&background=FFFFFF&ring=6C9BD2&fire=6C9BD2&currStreakLabel=6C9BD2" alt="ridika-2004" /></p>
-
-
-
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ridika-2004&theme=meta-dark&hide_border=true&ring=6C9BD2&fire=6C9BD2&currStreakLabel=6C9BD2" alt="GitHub Streak" /></a>
