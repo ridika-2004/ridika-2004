@@ -15,6 +15,7 @@
 
 <!-- About -->
 <h1 align="center">✨ About Me ✨</h1>
+<img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="300" align="right" style="border-radius: 10px;" />
 <p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p>
 <p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
 <p> 📫 How to reach me: <b>nazninridika2004@gmail.com</b></p>
