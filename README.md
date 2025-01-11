@@ -10,20 +10,32 @@
   </a> 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ridika-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ridika-2004" width=25% /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ridika-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ridika-2004" width=15% /> </p>
 
 
 <!-- About -->
 <h1 align="center">✨ About Me ✨</h1>
-<img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="300" align="right" style="border-radius: 10px;" />
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
     <p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p>
     <p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
-    <p> 📫 How to reach me: <b>nazninridika2004@gmail.com</b></p>
-    <p> 📄 <a href="https://ridika-naznin-portfolio.netlify.app/"><b>My Portfolio</b></a></p>
-    <p> 🪪 <a href="https://github.com/user-attachments/files/18310981/resume.pdf"><b>My Resume</b></a></p>
-    <p> ⚡ <b>I am funny :3</b></p>
+    <div align="center">
+        <a href="mailto:nazninridika2004@gmail.com">
+            <img src="https://img.shields.io/badge/📫-nazninridika2004%40gmail.com-blue" alt="Contact Email">
+        </a>
+        <a href="https://ridika-naznin-portfolio.netlify.app/">
+            <img src="https://img.shields.io/badge/📄-My%20Portfolio-green" alt="Portfolio">
+        </a>
+        <a href="https://github.com/user-attachments/files/18310981/resume.pdf">
+            <img src="https://img.shields.io/badge/🪪-My%20Resume-purple" alt="Resume">
+        </a>
+    </div>
 </div>
+
+<p align="center"> 
+    <img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="250" style="border-radius: 10px; display: block; margin: 0 auto;" />
+</p>
+
+<p align="center" style="font-size: 50px;"> ⚡ <b>I am funny :3</b></p>
 
 
 <!-- My Connections -->
