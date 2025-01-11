@@ -16,13 +16,12 @@
 <!-- About -->
 <h1 align="center">✨ About Me ✨</h1>
 <img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="300" align="right" style="border-radius: 10px;" />
-<p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p>
-<p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
-<p> 📫 How to reach me: <b>nazninridika2004@gmail.com</b></p>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; font-size: 2.5em;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+    <p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p>
+    <p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
+    <p> 📫 How to reach me: <b>nazninridika2004@gmail.com</b></p>
     <p> 📄 <a href="https://ridika-naznin-portfolio.netlify.app/"><b>My Portfolio</b></a></p>
-    <p> 📄 <a href="https://github.com/user-attachments/files/18310981/resume.pdf"><b>My Resume</b></a></p>
+    <p> 🪪 <a href="https://github.com/user-attachments/files/18310981/resume.pdf"><b>My Resume</b></a></p>
     <p> ⚡ <b>I am funny :3</b></p>
 </div>
 
