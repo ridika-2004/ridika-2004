@@ -14,11 +14,12 @@
 
 
 <!-- About -->
-<div align="center">
-    <h3>✨ About Me ✨</h3>
-    <p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p>
-    <p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
-    <p> 📫 How to reach me: <b>nazninridika2004@gmail.com</b></p>
+<h1 align="center">✨ About Me ✨</h1>
+<p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p>
+<p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
+<p> 📫 How to reach me: <b>nazninridika2004@gmail.com</b></p>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; font-size: 2.5em;">
     <p> 📄 <a href="https://ridika-naznin-portfolio.netlify.app/"><b>My Portfolio</b></a></p>
     <p> 📄 <a href="https://github.com/user-attachments/files/18310981/resume.pdf"><b>My Resume</b></a></p>
     <p> ⚡ <b>I am funny :3</b></p>
