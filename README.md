@@ -10,7 +10,7 @@
   </a> 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ridika-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ridika-2004" width=15% /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ridika-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ridika-2004" width=25% /> </p>
 
 
 <!-- About -->
