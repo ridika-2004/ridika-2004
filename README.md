@@ -32,7 +32,7 @@
 </div>
 
 <p align="center"> 
-    <img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="250" style="border-radius: 10px; display: block; margin: 0 auto;" />
+    <img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="150" style="border-radius: 10px; display: block; margin: 0 auto;" />
 </p>
 
 <p align="center" style="font-size: 50px;"> ⚡ <b>I am funny :3</b></p>
