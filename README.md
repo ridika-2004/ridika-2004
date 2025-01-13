@@ -6,7 +6,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ridika-2004&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ridika-2004&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=1b2b33&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
   </a> 
 </p>
 
@@ -62,9 +62,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&show_icons=true&locale=en&layout=compact" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&bg_color=1b2b33&text_color=88C0D0&show_icons=true&locale=en&layout=compact" 
        alt="Top Languages" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridika-2004&show_icons=true&locale=en" 
+  <img src="https://github-readme-stats.vercel.app/api?username=ridika-2004&bg_color=1b2b33&text_color=88C0D0&show_icons=true&locale=en" 
        alt="GitHub Stats" style="height: 200px;">
   </p>
 </div>
@@ -73,5 +73,5 @@
 <!-- Streak -->
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ridika-2004&theme=meta-dark&hide_border=true&ring=6C9BD2&fire=6C9BD2&currStreakLabel=6C9BD2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ridika-2004&theme=meta-dark&hide_border=true&ring=6C9BD2&text_color=88C0D0&fire=6C9BD2&currStreakLabel=6C9BD2" alt="GitHub Streak" /></a>
 </p>
