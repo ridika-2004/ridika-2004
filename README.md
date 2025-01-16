@@ -63,9 +63,9 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&bg_color=1b2b33&text_color=88C0D0&show_icons=true&locale=en&layout=compact" 
-       alt="Top Languages" style="height: 130px;">
+       alt="Top Languages" style="height: 150px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ridika-2004&bg_color=1b2b33&text_color=88C0D0&show_icons=true&locale=en" 
-       alt="GitHub Stats" style="height: 130px;">
+       alt="GitHub Stats" style="height: 150px;">
   </p>
 </div>
 
