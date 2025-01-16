@@ -73,5 +73,5 @@
 <!-- Streak -->
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=ridika-2004&theme=meta-dark&hide_border=true&ring=6C9BD2&text_color=88C0D0&fire=6C9BD2&currStreakLabel=6C9BD2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=meta-dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
