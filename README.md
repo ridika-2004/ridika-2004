@@ -59,7 +59,7 @@
 
 
 <!-- Commit Stats -->
-<h1 align="center"> 🏆 GitHub Stats </h1>
+<h1 align="center"> 📈 GitHub Stats </h1>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&bg_color=1b2b33&text_color=88C0D0&show_icons=true&locale=en&layout=compact" 
