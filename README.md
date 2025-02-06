@@ -16,7 +16,7 @@
 <!-- About -->
 <h1 align="center">✨ About Me ✨</h1>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-    <p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p>
+<!--     <p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p> -->
     <p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
 
   <p align="center"> 
