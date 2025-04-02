@@ -68,10 +68,3 @@
        alt="GitHub Stats" style="height: 150px;">
   </p>
 </div>
-
-
-<!-- Streak -->
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=meta-dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
