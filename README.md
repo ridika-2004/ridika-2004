@@ -54,6 +54,9 @@
   <a href="https://www.pinterest.com/pixelpanda840/">
     <img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Pinterest" />
   </a>
+  <a href="https://www.youtube.com/@ridikanaznin_115">
+    <img <img src="https://img.shields.io/badge/Youtube-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Youtube" />
+  </a>
 </p>
 
 </details>
