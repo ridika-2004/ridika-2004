@@ -1,70 +1,61 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=120&section=header" alt="header"/> 
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=800&color=6C9BD2&center=true&vCenter=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+I'm+Ridika+Naznin;I'm+a+software+engineering+student+" alt="Typing SVG" /></a>
-
-<!-- Activity Graph -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ridika-2004&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=1b2b33&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
-  </a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=800&color=6C9BD2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ridika+Naznin;I'm+a+software+engineering+student+" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ridika-2004&label=Profile%20views&color=0e75b6&style=flat" alt="ridika-2004" width=25% /> </p>
+<p align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fridika-2004&s=30&c=6c9bd2&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+</p>
 
-
-<!-- About -->
-<h1 align="center">✨ About Me ✨</h1>
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-<!--     <p> 🔭 I’m currently working on <a href="https://github.com/ridika-2004/HealthEd"><b>HealthEd</b></a></p> -->
-    <p> 🌱 I’m currently learning <b>Data Structures and Algorithms, Database Management System</b></p>
-
-  <p align="center"> 
+<p align="center"> 
     <img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="150" style="border-radius: 10px; display: block; margin: 0 auto;" />
 </p>
-    <div align="center">
-        <a href="mailto:nazninridika2004@gmail.com">
-            <img src="https://img.shields.io/badge/📫-nazninridika2004%40gmail.com-blue" alt="Contact Email">
-        </a>
-        <a href="https://ridika-naznin-portfolio.netlify.app/">
-            <img src="https://img.shields.io/badge/📄-My%20Portfolio-green" alt="Portfolio">
-        </a>
-        <a href="https://github.com/user-attachments/files/18310981/resume.pdf">
-            <img src="https://img.shields.io/badge/🪪-My%20Resume-purple" alt="Resume">
-        </a>
-    </div>
+
+<details align="center">
+  <summary>
+    <samp><b>𝓜𝓸𝓻𝓮 𝓘𝓷𝓯𝓸</b></samp>
+  </summary>
+  <br>
+<div align="center">
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridika-2004&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridika-2004&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridika-2004&theme=nord_dark&utcOffset=8) |
+| :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridika-2004&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+
 </div>
 
-<p align="center" style="font-size: 50px;"> ⚡ <b>I am funny :3</b></p>
+<div align="center" style="display: inline_block">
+  <br>
+  <img width="30" src="https://skillicons.dev/icons?i=cpp" />
+  <img width="30" src="https://skillicons.dev/icons?i=c" />
+  <img width="30" src="https://skillicons.dev/icons?i=java" />
+  <img width="30" src="https://skillicons.dev/icons?i=html" />
+  <img width="30" src="https://skillicons.dev/icons?i=css" />
+  <img width="30" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="30" src="https://skillicons.dev/icons?i=python" />
+  <img width="30" src="https://skillicons.dev/icons?i=git" />
+  <img width="30" src="https://skillicons.dev/icons?i=figma" />
+  <img width="30" src="https://skillicons.dev/icons?i=illustrator" />
+</div>
 
-
-<!-- My Connections -->
-<h1 align="center">Connect with me</h1>
 <p align="center">
-<a href="https://linkedin.com/in/ridika naznin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridika naznin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/novice_ridika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="novice_ridika" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/404skillnotfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="404skillnotfound" height="30" width="40" /></a>
+  <a href="mailto:nazninridika2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
+  </a>
+  <a href="https://x.com/115Ridika">
+    <img src="https://img.shields.io/badge/Twitter-2e3440?style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/ridikanaznin">
+    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://www.pinterest.com/pixelpanda840/">
+    <img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Pinterest" />
+  </a>
 </p>
 
-<!-- My Tools -->
+</details>
 
-<h1 align="center">Languages and Tools</h1>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<!-- Github Trophies -->
-
-<h1 align="center"> 🏆 GitHub Trophies </h1>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ridika-2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-<!-- Commit Stats -->
-<h1 align="center"> 📈 GitHub Stats </h1>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridika-2004&bg_color=1b2b33&text_color=88C0D0&show_icons=true&locale=en&layout=compact" 
-       alt="Top Languages" style="height: 150px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridika-2004&bg_color=1b2b33&text_color=88C0D0&show_icons=true&locale=en" 
-       alt="GitHub Stats" style="height: 150px;">
-  </p>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=120&section=footer"/>
