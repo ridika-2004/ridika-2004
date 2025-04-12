@@ -18,12 +18,6 @@
   </summary>
   <br>
 <div align="center">
-
-<p>
-  <img src="https://github.com/user-attachments/assets/c8a23d65-7b72-4b5b-ba98-e205b5a7f740" width="50" />
-  <img src="https://github.com/user-attachments/assets/32ac82f0-2234-406c-a0be-51326bd873b0" width="50" />
-  <img src="https://github.com/user-attachments/assets/ee9b3013-baa6-4fd8-aba2-03f099b8add0" width="50" />
-</p>
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridika-2004&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridika-2004&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridika-2004&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
