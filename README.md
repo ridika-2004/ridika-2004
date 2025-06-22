@@ -37,6 +37,7 @@
   <img width="30" src="https://skillicons.dev/icons?i=mysql" />
   <img width="30" src="https://skillicons.dev/icons?i=mongodb" />
   <img width="30" src="https://skillicons.dev/icons?i=python" />
+  <img width="30" src="https://skillicons.dev/icons?i=django" />
   <img width="30" src="https://skillicons.dev/icons?i=figma" />
   <img width="30" src="https://skillicons.dev/icons?i=illustrator" />
 </div>
