@@ -46,19 +46,23 @@
   <a href="mailto:nazninridika2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
   </a>
-  <a href="https://x.com/115Ridika">
-    <img src="https://img.shields.io/badge/Twitter-2e3440?style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter" />
+  <a href="https://gist.github.com/ridika-2004">
+    <img src="https://img.shields.io/badge/Github Gist-2e3440?style=for-the-badge&logo=github&logoColor=fff" alt="Gist" />
   </a>
   <a href="https://www.linkedin.com/in/ridikanaznin">
     <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
   <a href="https://www.pinterest.com/pixelpanda840/">
-    <img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Pinterest" />
+    <img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=pinterest&logoColor=fff" alt="Pinterest" />
+  </a>
+  <a href="https://x.com/115Ridika">
+    <img src="https://img.shields.io/badge/Twitter-2e3440?style=for-the-badge&logo=X&logoColor=fff" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@ridikanaznin_115">
-    <img <img src="https://img.shields.io/badge/Youtube-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="Youtube" />
+    <img src="https://img.shields.io/badge/Youtube-2e3440?style=for-the-badge&logo=youtube&logoColor=fff" alt="YouTube" />
   </a>
 </p>
+
 
 </details>
 
