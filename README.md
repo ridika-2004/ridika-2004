@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=90&section=header" alt="header"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=4000&pause=800&color=6C9BD2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ridika+Naznin;I'm+a+software+engineering+student+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=2000&pause=800&color=6C9BD2&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Ridika+Naznin;I'm+an+aspiring+software+engineer+" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fridika-2004&s=30&c=6c9bd2&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fridika-2004&s=20&c=6c9bd2&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
 </p>
 
 <p align="center"> 
@@ -66,4 +66,4 @@
 
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=90&section=footer"/>
