@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BD2&height=90&section=header" alt="header"/>
 
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=2000&pause=800&color=6C9BD2&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Ridika+Naznin;Nice+to+meet+you+" alt="Typing SVG" /></a>
 </div>
@@ -30,13 +31,9 @@
 <div align="center" style="display: inline_block">
   <br>
   <img width="30" src="https://skillicons.dev/icons?i=cpp" />
-  <img width="30" src="https://skillicons.dev/icons?i=c" />
   <img width="30" src="https://skillicons.dev/icons?i=java" />
-  <img width="30" src="https://skillicons.dev/icons?i=html" />
-  <img width="30" src="https://skillicons.dev/icons?i=css" />
   <img width="30" src="https://skillicons.dev/icons?i=mysql" />
   <img width="30" src="https://skillicons.dev/icons?i=mongodb" />
-  <img width="30" src="https://skillicons.dev/icons?i=python" />
   <img width="30" src="https://skillicons.dev/icons?i=django" />
   <img width="30" src="https://skillicons.dev/icons?i=figma" />
   <img width="30" src="https://skillicons.dev/icons?i=illustrator" />
