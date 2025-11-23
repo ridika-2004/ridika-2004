@@ -55,9 +55,6 @@
   <a href="https://x.com/115Ridika">
     <img src="https://img.shields.io/badge/Twitter-2e3440?style=for-the-badge&logo=X&logoColor=fff" alt="Twitter" />
   </a>
-  <a href="https://www.youtube.com/@ridikanaznin_115">
-    <img src="https://img.shields.io/badge/Youtube-2e3440?style=for-the-badge&logo=youtube&logoColor=fff" alt="YouTube" />
-  </a>
 </p>
 
 
