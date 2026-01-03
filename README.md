@@ -23,7 +23,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridika-2004&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridika-2004&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridika-2004&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridika-2004&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=nord)](https://git.io/streak-stats) |
+  | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridika-2004&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 </div>
@@ -49,8 +49,8 @@
   <a href="https://www.linkedin.com/in/ridikanaznin">
     <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
-  <a href="https://www.pinterest.com/pixelpanda840/">
-    <img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=pinterest&logoColor=fff" alt="Pinterest" />
+  <a href="https://www.researchgate.net/profile/Ridika-Naznin">
+    <img src="https://img.shields.io/badge/Research Gate-2e3440?style=for-the-badge&logo=ResearchGate&logoColor=fff" alt="ResearchGate" />
   </a>
   <a href="https://x.com/115Ridika">
     <img src="https://img.shields.io/badge/Twitter-2e3440?style=for-the-badge&logo=X&logoColor=fff" alt="Twitter" />
