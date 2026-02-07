@@ -2,12 +2,12 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=2000&pause=800&color=6C9BD2&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Ridika+Naznin;Nice+to+meet+you+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=2000&pause=800&color=6C9BD2&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Ridika+Naznin;Happy+to+meet+you+🙋‍♀️;I'd+love+to+learn+new+things+from+you+" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fridika-2004&s=20&c=6c9bd2&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-</div>
+</div> -->
 
 <div align="center"> 
     <img src="https://github.com/user-attachments/assets/03e9367b-a8a7-4c3b-9c39-17d25e422fa4" width="150" style="border-radius: 10px; display: block; margin: 0 auto;" />
