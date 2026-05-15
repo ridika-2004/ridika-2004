@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=2000&pause=800&color=6C9BD2&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Ridika+Naznin;Happy+to+meet+you+🙋‍♀️;I'd+love+to+learn+new+things+from+you+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&duration=2000&pause=800&color=6C9BD2&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Ridika+Naznin+👻;Happy+to+meet+you+🙋‍♀️;I'd+love+to+learn+new+things+from+you+😶‍🌫️;Not+Javascript+😑;I+hate+Javascript+🙂‍↔️+" alt="Typing SVG" /></a>
 </div>
 
 <!-- <div align="center">
@@ -50,12 +50,15 @@
   <a href="https://www.linkedin.com/in/ridikanaznin">
     <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
-  <a href="https://www.researchgate.net/profile/Ridika-Naznin">
+  <a href="https://www.facebook.com/shilpee.kabir.3/">
+    <img src="https://img.shields.io/badge/Facebook-2e3440?style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"/>
+  </a>
+  <!-- <a href="https://www.researchgate.net/profile/Ridika-Naznin">
     <img src="https://img.shields.io/badge/Research Gate-2e3440?style=for-the-badge&logo=ResearchGate&logoColor=fff" alt="ResearchGate" />
-  </a>
-  <a href="https://x.com/115Ridika">
+  </a> -->
+  <!-- <a href="https://x.com/115Ridika">
     <img src="https://img.shields.io/badge/Twitter-2e3440?style=for-the-badge&logo=X&logoColor=fff" alt="Twitter" />
-  </a>
+  </a> -->
 </p>
 
 
