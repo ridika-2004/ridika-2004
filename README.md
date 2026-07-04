@@ -53,6 +53,9 @@
   <a href="https://www.facebook.com/shilpee.kabir.3/">
     <img src="https://img.shields.io/badge/Facebook-2e3440?style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"/>
   </a>
+  <a href="https://www.youtube.com/@ridikanaznin_115">
+    <img src="https://img.shields.io/badge/Youtube-2e3440?style=for-the-badge&logo=youtube&logoColor=fff" alt="Youtube"/>
+  </a>
   <!-- <a href="https://www.researchgate.net/profile/Ridika-Naznin">
     <img src="https://img.shields.io/badge/Research Gate-2e3440?style=for-the-badge&logo=ResearchGate&logoColor=fff" alt="ResearchGate" />
   </a> -->
