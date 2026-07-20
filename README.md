@@ -23,7 +23,7 @@
   | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/careerpilot.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/skillbridge.gif) |
 | :-: | :-: | :-: |
 
-  | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridika-2004&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=nord)](https://git.io/streak-stats) |
+  | ![](https://github.com/ridika-2004/ridika-2004/blob/main/0point.gif) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 </div>
