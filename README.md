@@ -20,7 +20,7 @@
   <br>
 <div align="center">
   
-  | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridika-2004&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridika-2004&theme=nord_dark&utcOffset=8) |
+  | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/careerpilot.gif) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridika-2004&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
   | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridika-2004&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ridika-2004&theme=nord)](https://git.io/streak-stats) |
