@@ -20,8 +20,8 @@
   <br>
 <div align="center">
 
-  | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/smart_office_monitoring.gif) | 
-  | :-: | :-: |
+  | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/smart_office_monitoring.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/mcertikos.gif) | 
+  | :-: | :-: | :-: |
   
   | ![](https://github.com/ridika-2004/ridika-2004/blob/main/0point.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/careerpilot.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/skillbridge.gif) | 
   | :-: | :-: | :-: |
