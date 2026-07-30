@@ -20,14 +20,11 @@
   <br>
 <div align="center">
 
-  | Robot Arm Simulator | Smart Office Monitoring |
+  | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/smart_office_monitoring.gif) | 
   | :-: | :-: |
-  | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/smart_office_monitoring.gif) |
-
   
-  | 0Point | CareerPilot | SkillBridge |
-  | :-: | :-: | :-: |
   | ![](https://github.com/ridika-2004/ridika-2004/blob/main/0point.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/careerpilot.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/skillbridge.gif) | 
+  | :-: | :-: | :-: |
 
 </div>
 
