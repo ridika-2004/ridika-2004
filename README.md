@@ -18,7 +18,7 @@
     <samp><b>𝓜𝓸𝓻𝓮 𝓘𝓷𝓯𝓸</b></samp>
   </summary>
   <br>
-<div align="center">
+<!-- <div align="center">
 
   | ![](https://github.com/ridika-2004/ridika-2004/blob/main/robot_arm_simulator.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/smart_office_monitoring.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/mcertikos.gif) | 
   | :-: | :-: | :-: |
@@ -26,7 +26,7 @@
   | ![](https://github.com/ridika-2004/ridika-2004/blob/main/0point.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/careerpilot.gif) | ![](https://github.com/ridika-2004/ridika-2004/blob/main/skillbridge.gif) | 
   | :-: | :-: | :-: |
 
-</div>
+</div> -->
 
 <div align="center" style="display: inline_block">
   <br>
@@ -46,6 +46,9 @@
   </a>
   <a href="https://gist.github.com/ridika-2004">
     <img src="https://img.shields.io/badge/Github Gist-2e3440?style=for-the-badge&logo=github&logoColor=fff" alt="Gist" />
+  </a>
+  <a href="https://github.com/ridika-2004/ridika-2004/raw/refs/heads/main/RidikaNaznin.pdf">
+    <img src="https://img.shields.io/badge/↓%20Resume-2e3440?style=for-the-badge&logoColor=fff" alt="Download Resume" />
   </a>
   <a href="https://www.linkedin.com/in/ridikanaznin">
     <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
